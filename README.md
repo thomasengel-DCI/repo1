@@ -1,2 +1,2 @@
 # repo1
-My first repository.
+My first repository for training purpose.
